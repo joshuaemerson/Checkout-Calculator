@@ -1,0 +1,17 @@
+.cartitems {
+  padding: 1rem;
+  background-color: gainsboro;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
+
+.cartitems-list {
+    list-style: none;
+    padding: 0;
+}
+  
+.cartitems-list__fallback {
+  color: black;
+  text-align: center;
+}
