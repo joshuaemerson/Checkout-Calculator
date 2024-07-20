@@ -1,4 +1,4 @@
-CSC301 A1 Repo for Affanullah Siddiqui and Joshua Emerson
+CSC301 A1 Repo for Affanullah Siddiqui and Joshua Emerson (2022)
 
 This repository is for a Checkout Calculator Web Application built using Express.js and React.js. Users can enter various items to add them to their cart to calculate the total and applicable taxes. Instructions for use are detailed below.
 
